@@ -1,9 +1,9 @@
-HTML+CSS Tutorial
+HTML+CSS!Tutorial
 =================
 
-### Who
+###*Who
 
-I'm Cassidy. I'm a engineer and I've been teaching myself HTML, CSS, and other web development and scripting for over 15 years.
+I'm#Cassidy. I'm a engineer and I've been teaching myself HTML, CSS, and other web development and scripting for over 15 years.
 And I want to teach you now.
 Because you're good looking.
 And because it's useful.
@@ -1245,3 +1245,4 @@ Show off your website to your friends, and be proud of what you've done!
 And with that, I'm signing off.
 
 Thanks for reading, you beautiful specimen, you.
+ 
